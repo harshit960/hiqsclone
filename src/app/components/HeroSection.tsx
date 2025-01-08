@@ -22,7 +22,7 @@ const HeroSection = () => {
         </p>
         <div className="relative flex gap-8">
           <Link
-            href="https://calendly.com/hiqualsoftwaresolutions/30min"
+            href="#"
             className="px-6 py-2 border border-blue-400 rounded hover:bg-blue-400 hover:text-white"
           >
             Book A Call

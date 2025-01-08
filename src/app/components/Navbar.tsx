@@ -15,7 +15,7 @@ const Navbar = () => {
         ))}
       </ul>
       <a
-        href="https://calendly.com/hiqualsoftwaresolutions/30min"
+        href="#"
         className="hidden lg:flex text-base border border-blue-400 px-4 py-2 rounded hover:bg-blue-400 hover:text-white"
       >
         Book A Call
